@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is the change local
-=======
-fajkdjfakl
->>>>>>> refs/remotes/origin/master
+
