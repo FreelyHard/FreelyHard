@@ -1,2 +1,6 @@
 test push pull
-this is conflict with the pull
+<<<<<<< HEAD
+pull merge
+=======
+pull merge
+>>>>>>> 57be0f4a73d55a910202b392d993a39c9191a956
