@@ -1,2 +1,2 @@
 test push pull
-pull merge twice
+github edit third
