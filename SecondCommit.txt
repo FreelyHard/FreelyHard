@@ -1,2 +1,2 @@
 test push pull
-pull merge
+pull merge twice
