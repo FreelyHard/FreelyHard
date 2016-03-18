@@ -1,0 +1,3 @@
+[submodule "git_practice_submodule"]
+	path = git_practice_submodule
+	url = https://github.com/FreelyHard/git_practice_submodule.git
